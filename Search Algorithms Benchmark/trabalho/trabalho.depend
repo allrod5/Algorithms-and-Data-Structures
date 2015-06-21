@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1430348570 source:/home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/trabalho/main.cpp
+	<iostream>
+	<cstdlib>
+	"ordenacao.hpp"
+
+1430351503 /home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/trabalho/ordenacao.hpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"RandomCL.hpp"
+
+1430259717 /home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/trabalho/RandomCL.hpp
+
+1430348570 source:/home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/entrega/trabalho/main.cpp
+	<iostream>
+	<cstdlib>
+	"ordenacao.hpp"
+
+1430351503 /home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/entrega/trabalho/ordenacao.hpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<algorithm>
+	"RandomCL.hpp"
+
+1430259717 /home/rodrigo/Documentos/UFABC/2015 - 1º quad/Algoritmos e Estrutura de Dados I/entrega/trabalho/RandomCL.hpp
+

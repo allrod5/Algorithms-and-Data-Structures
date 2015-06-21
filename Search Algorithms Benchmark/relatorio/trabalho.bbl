@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bal2015}
+A.~G.~R. Balan.
+\newblock {\em Notas de Aula}.
+\newblock 2015.
+
+\bibitem{cormen}
+R.~Cormen, Leisersone.
+\newblock {\em Algoritmos: Teoria e Prática}.
+\newblock Editora Campus.
+
+\bibitem{deitel}
+Deitel.
+\newblock {\em C++ como programar}.
+\newblock Pearson Prentice Hall.
+
+\bibitem{Hoare1962}
+C.~A. Hoare.
+\newblock Quicksort.
+\newblock {\em The Computer Journal}, 5(1):10--16, 1962.
+
+\bibitem{Katajainen1997}
+J.~Katajainen and J.~L. Tr{\"a}ff.
+\newblock {\em A meticulous analysis of mergesort programs}.
+\newblock Springer, 1997.
+
+\bibitem{Shell1959}
+D.~L. Shell.
+\newblock A high-speed sorting procedure.
+\newblock {\em Communications of the ACM}, 2(7):30--32, 1959.
+
+\bibitem{Williams1964}
+J.~W.~J. Williams.
+\newblock Algorithm 232 - heapsort, 1964.
+
+\bibitem{ziviani}
+Ziviani.
+\newblock {\em Projeto de algoritmos: com implementações em Java e C++}.
+\newblock Thomson Learning.
+
+\end{thebibliography}
