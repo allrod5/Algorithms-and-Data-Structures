@@ -3,7 +3,7 @@
 int size = 4;
 
 /* Neste caso o ID 1 é celebridade */
-short int MATRIX[N][N] = {{0, 1, 0, 0}, {0, 0, 0, 0}, {0, 1, 0, 0}, {0, 1, 0, 0}};
+short int MATRIX[4][4] = {{0, 1, 0, 0}, {0, 0, 0, 0}, {0, 1, 0, 0}, {0, 1, 0, 0}};
 
 short int HaveAcquiantance(int a, int b) { return MATRIX[a][b]; }
 
